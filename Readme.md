@@ -16,7 +16,7 @@
 ```sh
   tsc --watch miarchivo.ts
 ```
-5. Para ver pueden instalar un servidor local
+5. Para hacer pruebas de sus archivos generados pueden instalar un servidor local
 ```sh
   npm install -g http-server
 ```
